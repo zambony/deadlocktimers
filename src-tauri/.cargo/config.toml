@@ -1,0 +1,2 @@
+[build]
+rustflags=["-Zlocation-detail=none", "--remap-path-prefix=C:\\Users\\dylan=build"]
